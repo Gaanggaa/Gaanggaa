@@ -1,7 +1,8 @@
-<!-- Pac-Man banner -->
-<p align="center">
+<!-- Pac-Man banner --> 
+
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="600" alt="Pac-Man Banner">
-</p>
+</p>-->
 
 <h1 align="center">👋 Hey, I'm Ganga Gireesh</h1>
 <h3 align="center">🎨 UI/UX Designer | Community Creative | Visual Thinker</h3>
@@ -44,16 +45,15 @@ Currently working as a **UI/UX Designer** across various communities and creativ
 
 ---
 
-### 🏆 GitHub Stats
+<!-- ### 🏆 GitHub Stats
 
 ![Gaanggaa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaanggaa&theme=tokyonight&hide_border=true)
 ![Gaanggaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaanggaa&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaanggaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-### 🏅 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Gaanggaa&theme=dracula&no-frame=true&margin-w=15)
+<!--### 🏅 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Gaanggaa&theme=dracula&no-frame=true&margin-w=15)-->
 
 ---
 
